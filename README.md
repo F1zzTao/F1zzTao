@@ -24,4 +24,4 @@
 <img alt="Git" width="40px" height="40px" src="images/git.svg" />
 
 ## Статистика
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timius100&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
