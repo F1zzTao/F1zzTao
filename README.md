@@ -21,4 +21,7 @@
 <img align="left" alt="Visual Studio Code" width="40px" height="40px" src="images/vscode.svg" />
 <img align="left" alt="Visual Studio" width="40px" height="40px" src="images/vs.svg" />
 <img align="left" alt="GitHub" width="40px" height="40px" src="images/github.svg" />
-<img align="left" alt="Git" width="40px" height="40px" src="images/git.svg" />
+<img alt="Git" width="40px" height="40px" src="images/git.svg" />
+
+## Статистика
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
