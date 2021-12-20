@@ -1,8 +1,8 @@
 ## Hello, my name is Timur 👋
 
 ### About me
-🇱🇻 I live in Latvia, I know Russian and English, but I don't know Latvian...\
-🎂 I am under 18, and my birthday is April 7
+-  🇱🇻 I live in Latvia, I know Russian and English, but I don't know Latvian...
+- 🎂 I am under 18, and my birthday is April 7
 
 ### What am I doing
 - 🔭 Right now I'm working on my VK selfbot: [VK+](https://github.com/timius100/vkplus)
