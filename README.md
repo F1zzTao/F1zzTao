@@ -1,7 +1,7 @@
 ## Hello, my name is Timur Bogdanov 👋
 
 ### About me
--  🇱🇻 I live in Latvia, I know Russian and English, but I don't know Latvian...
+- 🏙 I live in Latvia, I know Russian and English, but I don't know Latvian...
 - 🎂 I am under 18, and my birthday is April 7
 
 ### What am I doing
