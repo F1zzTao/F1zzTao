@@ -1,4 +1,4 @@
-## Hello, my name is Timur 👋
+## Hello, my name is Timur Bogdanov 👋
 
 ### About me
 -  🇱🇻 I live in Latvia, I know Russian and English, but I don't know Latvian...
