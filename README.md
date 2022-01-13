@@ -1,3 +1,5 @@
+[[RU]](https://github.com/timius100/timius100/blob/main/README_RU.md)
+
 ## Hello, my name is Timur Bogdanov 👋
 
 ### About me
@@ -28,5 +30,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timius100&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact me
-- Discord: Timur!#6596
-- VK: <https://vk.com/tbogdanov96>
+- 🎮 Discord: Timur!#6596
+- 💬 VK: <https://vk.com/tbogdanov96>
