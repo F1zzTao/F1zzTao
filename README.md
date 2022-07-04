@@ -7,10 +7,9 @@
 - 🎂 I am under 18, and my birthday is April 7
 
 ### What am I doing
-- 🔭 Right now I'm working on my VK selfbot: [VK+](https://github.com/timius100/vkplus)
-- 🌱 I'm learning Unity, because I want to create cool games
+- 🌱 I'm learning Unity and Blender, because I want to model and create cool games
 
-## Languages and tools I'm using 🛠
+## Languages and tools I know 🛠
 
 ### Languages
 <img align="left" alt="Python" width="40px" height="40px" src="images/python.svg" />
@@ -19,6 +18,8 @@
 <img alt="C#" width="40px" height="40px" src="images/csharp.svg" />
 
 ### Tools
+<img align="left" alt="Blender" width="40px" height="40px" src="images/blender.svg" />
+<img align="left" alt="Unity" width="80px" height="40px" src="images/unity.svg" />
 <img align="left" alt="Visual Studio Code" width="40px" height="40px" src="images/vscode.svg" />
 <img align="left" alt="Visual Studio" width="40px" height="40px" src="images/vs.svg" />
 <img align="left" alt="GitHub" width="40px" height="40px" src="images/github.svg" />
