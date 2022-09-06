@@ -19,6 +19,8 @@
 <img alt="C#" width="40px" height="40px" src="images/csharp.svg" />
 
 ### Инструменты
+<img align="left" alt="Blender" width="40px" height="40px" src="images/blender.svg" />
+<img align="left" alt="Unity" width="80px" height="40px" src="images/unity.svg" />
 <img align="left" alt="Visual Studio Code" width="40px" height="40px" src="images/vscode.svg" />
 <img align="left" alt="Visual Studio" width="40px" height="40px" src="images/vs.svg" />
 <img align="left" alt="GitHub" width="40px" height="40px" src="images/github.svg" />
@@ -30,5 +32,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timius100&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Связь со мной
-- 🎮 Discord: Timur!#6596
+- 🎮 Discord: Timur!#0184
 - 💬 VK: <https://vk.com/tbogdanov96>
