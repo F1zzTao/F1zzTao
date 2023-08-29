@@ -1,6 +1,6 @@
 [[RU]](https://github.com/timius100/timius100/blob/main/README_RU.md)
 
-## Hello, my name is Timur Bogdanov 👋
+## Hi, I'm Timur 👋
 
 ### About me
 - 🏙 I live in Latvia, I know Russian and English, but I don't know Latvian...
