@@ -31,5 +31,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timius100&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact me
-- 🎮 Discord: Timur!#0184
+- 🎮 Discord: _hu_tao
 - 💬 VK: <https://vk.com/tbogdanov96>
