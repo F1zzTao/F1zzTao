@@ -32,4 +32,4 @@
 
 ## Contact me
 - 🎮 Discord: _hu_tao
-- 💬 VK: <https://vk.com/tbogdanov96>
+- 💬 VK: <https://vk.com/F1zzBuzz>
