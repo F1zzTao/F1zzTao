@@ -1,4 +1,4 @@
-[[EN]](https://github.com/timius100/timius100/blob/main/README.md)
+[[EN]](https://github.com/F1zzTao/F1zzTao/blob/main/README.md)
 
 ## Привет, я Тимур 👋
 
@@ -26,10 +26,10 @@
 <img alt="Git" width="40px" height="40px" src="images/git.svg" />
 
 ## Статистика
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timius100&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=F1zzTao&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timius100&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F1zzTao&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Связь со мной
 - 🎮 Discord: _hu_tao
-- 💬 VK: <https://vk.com/tbogdanov96>
+- 💬 VK: <https://vk.com/F1zzTao>
