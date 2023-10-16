@@ -1,4 +1,4 @@
-[[RU]](https://github.com/timius100/timius100/blob/main/README_RU.md)
+[[RU]](https://github.com/F1zzTao/F1zzTao/blob/main/README_RU.md)
 
 ## Hi, I'm Timur 👋
 
@@ -26,9 +26,9 @@
 <img alt="Git" width="40px" height="40px" src="images/git.svg" />
 
 ## Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timius100&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=F1zzTao&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timius100&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F1zzTao&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact me
 - 🎮 Discord: _hu_tao
