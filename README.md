@@ -4,10 +4,10 @@
 
 ### About me
 - 🏙 I live in Latvia, I know Russian and English, but I don't know Latvian...
-- 🎂 I am under 18, and my birthday is April 7
+- 🎂 My birthday is April 7
 
-### What am I doing
-- 🌱 I'm learning Unity and Blender, because I want to model and create cool games
+### What am I doing right now
+- 🌱 I continue to learn Python, but in the future I also want to learn Unreal Engine 5 and Blender to make games!
 
 ## Languages and tools I know 🛠
 
@@ -19,7 +19,6 @@
 
 ### Tools
 <img align="left" alt="Blender" width="40px" height="40px" src="images/blender.svg" />
-<img align="left" alt="Unity" width="80px" height="40px" src="images/unity.svg" />
 <img align="left" alt="Visual Studio Code" width="40px" height="40px" src="images/vscode.svg" />
 <img align="left" alt="Visual Studio" width="40px" height="40px" src="images/vs.svg" />
 <img align="left" alt="GitHub" width="40px" height="40px" src="images/github.svg" />
@@ -32,4 +31,5 @@
 
 ## Contact me
 - 🎮 Discord: _hu_tao
+- 📱 Telegram: @F1zzTao
 - 💬 VK: <https://vk.com/F1zzTao>
