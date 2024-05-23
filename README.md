@@ -30,6 +30,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F1zzTao&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact me
+- 📱 Telegram: [@F1zzTao](https://t.me/F1zzTao)
+- 💬 VK: [vk.com/F1zzTao](https://vk.com/id322615766)
 - 🎮 Discord: _hu_tao
-- 📱 Telegram: @F1zzTao
-- 💬 VK: <https://vk.com/F1zzTao>
