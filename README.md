@@ -3,13 +3,22 @@
 ## Hi, I'm Timur 👋
 
 ### About me
-- 🏙 I live in Latvia, I know Russian and English, but I don't know Latvian...
-- 🎂 My birthday is April 7
+- 🏙 I live in Latvia and know both Russian and English, but still learning Latvian...
+- 🎂 My birthday is April 7.
 
-### What am I doing right now
-- 🌱 I continue to learn Python, but in the future I also want to learn Unreal Engine 5 and Blender to make games!
+### What am I doing in my free time
+- 🌱 I learn Python and sometimes Unreal Engine, because I'm interested in game development.
+- 🎨 Learning to draw in anime style.
 
-## Languages and tools I know 🛠
+## Projects I'm working on
+
+### [NedoGPT](https://github.com/F1zzTao/NedoGPT)
+- Bot for VK and TG that uses AI models for text generation in chats.
+
+### [HuTao-Bot](https://github.com/we-love-hu-tao/HuTao-Bot)
+- Hu Tao is the best character in one particular anime game. And also a VK bot with a gacha simulator.
+
+## Languages and tools I know and use 🛠
 
 ### Languages
 <img align="left" alt="Python" width="40px" height="40px" src="images/python.svg" />
@@ -18,11 +27,10 @@
 <img alt="C#" width="40px" height="40px" src="images/csharp.svg" />
 
 ### Tools
-<img align="left" alt="Blender" width="40px" height="40px" src="images/blender.svg" />
 <img align="left" alt="Visual Studio Code" width="40px" height="40px" src="images/vscode.svg" />
-<img align="left" alt="Visual Studio" width="40px" height="40px" src="images/vs.svg" />
 <img align="left" alt="GitHub" width="40px" height="40px" src="images/github.svg" />
 <img alt="Git" width="40px" height="40px" src="images/git.svg" />
+<img align="left" alt="Visual Studio" width="40px" height="40px" src="images/vs.svg" />
 
 ## Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=F1zzTao&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -30,6 +38,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F1zzTao&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact me (I'm most likely bored, so send anything, please!!)
-- 📱 Telegram: [@F1zzTao](https://t.me/F1zzTao)
-- 💬 VK: [vk.com/F1zzTao](https://vk.com/id322615766)
+- 📱 Telegram: [click!](https://t.me/F1zzTao)
+- 💬 VK: [click!](https://vk.com/id322615766)
 - 🎮 Discord: _hu_tao
