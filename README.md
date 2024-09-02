@@ -1,4 +1,4 @@
-[[RU]](https://github.com/F1zzTao/F1zzTao/blob/main/README_RU.md)
+[🇷🇺 Русский](README_RU.md)
 
 ## Hi, I'm Timur 👋
 
