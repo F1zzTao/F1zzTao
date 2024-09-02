@@ -1,4 +1,4 @@
-[[EN]](https://github.com/F1zzTao/F1zzTao/blob/main/README.md)
+[[🇬🇧 English]](README.md)
 
 ## Привет, я Тимур 👋
 
