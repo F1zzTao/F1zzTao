@@ -35,6 +35,8 @@
 <img alt="Git" width="40px" height="40px" src="images/git.svg" />
 
 ## Statistics
+<img src="https://count.getloli.com/get/@:f1zztao?theme=moebooru"><br>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=F1zzTao&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F1zzTao&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
