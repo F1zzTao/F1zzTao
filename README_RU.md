@@ -1,5 +1,7 @@
 [[🇬🇧 English]](README.md)
 
+<img src="https://count.getloli.com/get/@:f1zztao?theme=moebooru"><br>
+
 ## Привет, я Тимур 👋
 
 ### Обо мне
