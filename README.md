@@ -1,5 +1,7 @@
 [🇷🇺 Русский](README_RU.md)
 
+<img src="https://count.getloli.com/get/@:f1zztao?theme=moebooru"><br>
+
 ## Hi, I'm Timur 👋
 
 ### About me
