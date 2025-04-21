@@ -41,5 +41,5 @@
 
 ## Contact me (I'm most likely bored, so send anything, please!!)
 - 📱 Telegram: [click!](https://t.me/F1zzTao)
-- 💬 VK: [click!](https://vk.com/id322615766)
 - 🎮 Discord: _hu_tao
+- 💬 VK: [click!](https://vk.com/id322615766)
