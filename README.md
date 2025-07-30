@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/F1zzTao/F1zzTao/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/F1zzTao/F1zzTao/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
+</picture>
+
 ## Hi, I'm Timur 👋
 
 ### About me
@@ -34,6 +40,7 @@
 ## Statistics
 <!-- I swear I'm not a weeb 😭 I'm thinking of changing it already, but I also like how it looks -->
 <img src="https://count.getloli.com/get/@:f1zztao?theme=moebooru"><br>
+\>_<
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=F1zzTao&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
