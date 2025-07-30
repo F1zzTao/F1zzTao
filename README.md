@@ -1,13 +1,12 @@
-[🇷🇺 Русский](README_RU.md)
-
 ## Hi, I'm Timur 👋
 
 ### About me
-- 🏙 I live in Latvia and know both Russian and English, but still learning Latvian...
+- 🏙 I live in Latvia and know both Russian and English, yet still learning Latvian...
 - 🎂 My birthday is April 7.
 
 ### What am I doing in my free time
-- 🌱 I learn Python and sometimes Unreal Engine, because I'm interested in game development.
+- 🌱 I learn Python and sometimes Unity, because I'm interested in game development.
+- 🇯🇵 Learning Japanese using tools like renshuu, Anki and also by watching videos/animes or reading mangas in Japanese.
 - 🎨 Learning to draw in anime style.
 
 ## Projects I'm working on
@@ -33,6 +32,7 @@
 <img alt="Git" width="40px" height="40px" src="images/git.svg" />
 
 ## Statistics
+<!-- I swear I'm not a weeb 😭 I'm thinking of changing it already, but I also like how it looks -->
 <img src="https://count.getloli.com/get/@:f1zztao?theme=moebooru"><br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=F1zzTao&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -42,4 +42,3 @@
 ## Contact me (I'm most likely bored, so send anything, please!!)
 - 📱 Telegram: [click!](https://t.me/F1zzTao)
 - 🎮 Discord: _hu_tao
-- 💬 VK: [click!](https://vk.com/id322615766)
