@@ -7,18 +7,19 @@
 ## Hi, I'm Timur 👋
 
 ### About me
-- 🏙 I live in Latvia and know both Russian and English, yet still learning Latvian...
+- 🏙 I live in Latvia and know English, Latvian and Russian.
 - 🎂 My birthday is April 7.
 
 ### What am I doing in my free time
-- 🌱 I learn Python and sometimes Unity, because I'm interested in game development.
+- 🌱 I learn Python and sometimes Blender (animation).
 - 🇯🇵 Learning Japanese using tools like renshuu, Anki and also by watching videos/animes or reading mangas in Japanese.
 - 🎨 Learning to draw in anime style.
+- 🎸 Play bass.
 
 ## Projects I'm working on
 
 ### [NedoGPT](https://github.com/F1zzTao/NedoGPT)
-- Bot for VK and TG that uses AI models for text generation in chats.
+- Bot for TG and VK that uses AI models for text generation in chats.
 
 ### [HuTao-Bot](https://github.com/we-love-hu-tao/HuTao-Bot)
 - Hu Tao is the best character in one particular anime game. And also a VK bot with a gacha simulator.
@@ -44,6 +45,6 @@
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=f1zztao&langs_count=3&theme=material-palenight)
 
-## Contact me (I'm most likely bored, so send anything, please!!)
+## Contact me (I'm most likely bored, so send anything, please!)
 - 📱 Telegram: [click!](https://t.me/F1zzTao)
 - 🎮 Discord: _hu_tao
