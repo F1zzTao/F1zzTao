@@ -38,13 +38,11 @@
 <img alt="Git" width="40px" height="40px" src="images/git.svg" />
 
 ## Statistics
-<!-- I swear I'm not a weeb 😭 I'm thinking of changing it already, but I also like how it looks -->
-<img src="https://count.getloli.com/get/@:f1zztao?theme=moebooru"><br>
-\>_<
+<img src="https://count.getloli.com/@:f1zztao?theme=miku&padding=5&scale=0.5&pixelated=0&darkmode=auto"><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=F1zzTao&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=F1zzTao&theme=material-palenight)](https://github.com/stats-organization/github-stats-extended)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F1zzTao&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=f1zztao&langs_count=3&theme=material-palenight)
 
 ## Contact me (I'm most likely bored, so send anything, please!!)
 - 📱 Telegram: [click!](https://t.me/F1zzTao)
